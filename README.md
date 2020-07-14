@@ -1,2 +1,3 @@
 # 👨‍💻 Jordan Reger
-## Full stack developer 
+minimalist
+https://reger.id
