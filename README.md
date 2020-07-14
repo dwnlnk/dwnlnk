@@ -1,2 +1,2 @@
-#### 👨‍💻 Jordan Reger
-## Full stack developer
+# 👨‍💻 Jordan Reger
+## Full stack developer 
