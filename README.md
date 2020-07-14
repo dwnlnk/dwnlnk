@@ -1,1 +1,1 @@
-<img src="https://github.com/jetavators/jetavators/desktopbg.png"/>
+<img src="https://raw.githubusercontent.com/jetavators/jetavators/master/desktopbg.png"/>
