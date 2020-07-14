@@ -1,4 +1,4 @@
-**Jordan Reger**
+# Jordan Reger
 <br>
 <img src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
 <br>
