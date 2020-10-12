@@ -1,1 +1,4 @@
-<img src="https://github.com/rej0/rej0/blob/master/box-2.jpg?raw=true" alt="readme"/>
+# 🛰 Jordan Reger 🛰
+<iframe src="https://giphy.com/embed/amil7yznb7xtKKdS1H" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<a href="https://reger.id"> 🏠</a>
