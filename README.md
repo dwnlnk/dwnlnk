@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/amil7yznb7xtKKdS1H/giphy.gif" align="left" height="auto" width="100%">
-<br/>
 
+<br/>
 my name is jordan reger and i am a minimalist web developer and aae student. i also produce photos and videos. check out my work below
 
 <br/>
