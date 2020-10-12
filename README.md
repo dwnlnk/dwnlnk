@@ -1,4 +1,4 @@
 # 🛰 Jordan Reger 🛰
-<iframe src="https://giphy.com/embed/amil7yznb7xtKKdS1H" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![mainimg](https://media.giphy.com/media/amil7yznb7xtKKdS1H/source.gif)
 
-<a href="https://reger.id"> 🏠</a>
+<a href="https://reger.id"> website</a>
