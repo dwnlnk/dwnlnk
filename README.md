@@ -24,5 +24,5 @@
 </h3>
 
 <h3>
-  :mount_fuji: see you later! :mount_fuji:
+  :mount_fuji: stay for a while, check out my code. see ya later! :mount_fuji:
 </h3>
