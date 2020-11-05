@@ -15,7 +15,7 @@
 <h3>
   :art: check out my work on <a href="https://dribbble.com/dwnlnk">dribbble</a>,
   <br>
-  <a href="https://instagram.com/dwnlnk">instagram</a>, or my <a href="https://reger.id">website</a> :art:
+  <a href="https://instagram.com/dwnlnk">instagram</a>, or my <a href="https://j.uldl.me">website</a> :art:
   <br>
   <br>
    :mega: or talk to me on <a href="https://twitter.com/dwnlink">twitter</a>, <a href="https://discord.lunr.dev">discord</a>,
