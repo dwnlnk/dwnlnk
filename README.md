@@ -1,3 +1,3 @@
 i don't spend much time on the internet anymore.
 
-[website](https://ocullect.ga)
+visit my [website](https://ocullect.ga).
