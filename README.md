@@ -1,1 +1,3 @@
-![Header](https://raw.githubusercontent.com/jordanreger/jordanreger/master/logo-header.png)
+i don't spend much time on the internet anymore.
+
+[website](https://ocullect.ga)
