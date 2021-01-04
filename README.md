@@ -2,5 +2,5 @@
 
 # welcome to the internet.
 
-i don't use it very often anymore.
-visit my [website](https://reger.id).
+i try not to use it very much, but i always end up back here.
+visit my [website](https://majel.me).
